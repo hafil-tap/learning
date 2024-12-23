@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#roll{
+    color: white;
+    background-color:rgb(38, 255, 0) ;
+    font-size:2em;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+    
+}
+label{
+    font-size: 3em;
+    background-color:blanchedalmond ;
+    color: aqua;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
